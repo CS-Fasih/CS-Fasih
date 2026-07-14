@@ -8,24 +8,28 @@
 
 <p align="center">
   <a href="https://muhammadfasih.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-E8192C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-E8192C?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=22"
+      alt="Portfolio"
+    />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/muhammad-fasih-19f">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN%E2%80%82-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=22"
+      alt="LinkedIn"
+    />
   </a>
+  &nbsp;
   <a href="mailto:muhammadfasih146@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img
+      src="https://img.shields.io/badge/EMAIL%E2%80%82ME%E2%80%82-161B22?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=22"
+      alt="Email"
+    />
   </a>
 </p>
 
 <br>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=850&color=E8192C&center=true&vCenter=true&width=950&height=55&lines=Clear+for+the+user.;Reliable+underneath.;Built+for+real+constraints."
-    alt="Animated engineering values"
-  />
-</p>
 
 <p align="center">
   <b>PRODUCT</b> — clear interfaces and complete user journeys<br>
@@ -66,3 +70,4 @@
     alt="Animated footer"
   />
 </p>
+
