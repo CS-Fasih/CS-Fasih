@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-Backend_Architecture_%7C_AI_%7C_Systems-161B22?style=for-the-badge" alt="Current focus">
-  <img src="https://img.shields.io/badge/OPEN_TO-Junior_Software_Engineering-E8192C?style=for-the-badge" alt="Open to junior software engineering">
+  <img src="https://img.shields.io/badge/OPEN_TO-Software_Engineering-E8192C?style=for-the-badge" alt="Open to software engineering">
 </p>
 
 <p align="center">
@@ -64,4 +64,5 @@
     alt="Animated footer"
   />
 </p>
+
 
