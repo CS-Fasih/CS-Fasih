@@ -1,65 +1,68 @@
-<div align="center">
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:05070A,55:111827,100:E8192C&text=Muhammad%20Fasih&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20WEB%20%E2%80%A2%20AI%20%E2%80%A2%20SYSTEMS&descAlignY=58&descSize=17&animation=fadeIn"
+    alt="Muhammad Fasih — Software Engineer"
+  />
+</p>
 
-<img src="https://avatars.githubusercontent.com/u/132261661?v=4" width="170" alt="Muhammad Fasih">
-
-# Muhammad Fasih
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=650&size=23&duration=2600&pause=900&color=E8192C&center=true&vCenter=true&width=720&lines=I+build+software+across+product%2C+AI%2C+and+systems.;Turning+complex+ideas+into+clear%2C+usable+technology.;Learning+deeply.+Building+carefully.+Shipping+reliably."
-  alt="Animated introduction"
-/>
-
-</div>
-
-<br>
-
-I am a software engineer who enjoys working across the complete technical stack—from interfaces and APIs to machine-learning pipelines, Linux processes, networking, and security tooling.
-
-I am most interested in projects where software has a clear purpose: solving a real problem, improving a workflow, explaining complex information, or making a system safer and more reliable.
-
-```text
-PRODUCT       thoughtful interfaces and complete user experiences
-INTELLIGENCE  practical AI, computer vision, and language-model systems
-INFRASTRUCTURE APIs, databases, containers, deployment, and observability
-SYSTEMS       Linux, POSIX, networking, compilers, and low-level software
-```
-
-<div align="center">
-
-### Tools I regularly work with
-
-<img
-  src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,fastapi,mongodb,postgres,redis,docker,linux,c,cpp,cs,git&perline=8"
-  alt="Technology stack"
-/>
-
-</div>
+<p align="center">
+  <a href="https://muhammadfasih.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-E8192C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-fasih-19f">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:muhammadfasih146@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <br>
 
-```yaml
-engineering_style:
-  clarity: prefer simple designs over unnecessary complexity
-  quality: test assumptions and measure performance
-  security: consider protection from the beginning
-  accessibility: build for more than one kind of user
-  growth: keep learning beyond the current stack
-```
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=850&color=E8192C&center=true&vCenter=true&width=950&height=55&lines=Clear+for+the+user.;Reliable+underneath.;Built+for+real+constraints."
+    alt="Animated engineering values"
+  />
+</p>
 
-<div align="center">
+<p align="center">
+  <b>PRODUCT</b> — clear interfaces and complete user journeys<br>
+  <b>INTELLIGENCE</b> — practical AI, computer vision, and machine learning<br>
+  <b>SYSTEMS</b> — APIs, databases, Linux, security, and deployment
+</p>
 
-<a href="https://muhammadfasih.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-E8192C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/muhammad-fasih-19f">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:muhammadfasih146@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<br>
 
-<br><br>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,express,fastapi,pytorch,mongodb,postgres,mysql,redis,docker,linux,c,cpp,cs,git&theme=dark&perline=9"
+    alt="Technology stack"
+  />
+</p>
 
-<sub>Karachi, Pakistan · Open to software-engineering opportunities</sub>
+<br>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Backend_Architecture_%7C_AI_%7C_Systems-161B22?style=for-the-badge" alt="Current focus">
+  <img src="https://img.shields.io/badge/OPEN_TO-Junior_Software_Engineering-E8192C?style=for-the-badge" alt="Open to junior software engineering">
+</p>
+
+<p align="center">
+  <b>Build thoughtfully. Measure honestly. Ship reliably.</b>
+</p>
+
+<p align="center">
+  <a href="https://muhammadfasih.vercel.app"><b>VIEW PORTFOLIO</b></a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="mailto:muhammadfasih146@gmail.com"><b>GET IN TOUCH</b></a>
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:05070A,55:111827,100:E8192C&animation=twinkling"
+    alt="Animated footer"
+  />
+</p>
