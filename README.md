@@ -32,9 +32,9 @@
 <br>
 
 <p align="center">
-  <b>PRODUCT</b> — clear interfaces and complete user journeys<br>
-  <b>INTELLIGENCE</b> — practical AI, computer vision, and machine learning<br>
-  <b>SYSTEMS</b> — APIs, databases, Linux, security, and deployment
+  <b>FULL-STACK</b> — MERN applications, scalable APIs, and polished user experiences<br>
+  <b>AI & INTELLIGENCE</b> — computer vision, machine learning, and useful automation<br>
+  <b>SYSTEMS</b> — databases, Linux, networking, security, and deployment
 </p>
 
 <br>
@@ -55,12 +55,6 @@
 
 <p align="center">
   <b>Build thoughtfully. Measure honestly. Ship reliably.</b>
-</p>
-
-<p align="center">
-  <a href="https://muhammadfasih.vercel.app"><b>VIEW PORTFOLIO</b></a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="mailto:muhammadfasih146@gmail.com"><b>GET IN TOUCH</b></a>
 </p>
 
 <p align="center">
